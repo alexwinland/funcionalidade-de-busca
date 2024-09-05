@@ -34,6 +34,7 @@ section {
 /* Estiliza os inputs dentro das seções */
 section input {
   font-family: "MedievalSharp", sans-serif;
+  font-weight: bold;
   background-color: #90ee90;
   width: 30rem; /* Largura dos inputs */
   border: none; /* Remove a borda padrão */
@@ -52,6 +53,7 @@ input::placeholder {
 /* Estiliza os botões dentro das seções */
 section button {
   font-family: "MedievalSharp", sans-serif;
+  font-weight: bold;
   padding: 0.8rem 1.2rem; /* Espaçamento interno do botão */
   border: none; /* Remove a borda padrão */
   border-radius: 1.5rem; /* Borda arredondada */
@@ -83,7 +85,7 @@ section button:hover {
   border-radius: 0.6rem; /* Borda arredondada */
   padding: 1rem; /* Espaçamento interno */
   margin-bottom: 1rem; /* Espaçamento abaixo dos itens */
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra leve */
+  box-shadow: 0 2px 4px #39ff14; /* Sombra leve */
 }
 
 /* Estiliza os títulos dentro dos itens de resultado */
