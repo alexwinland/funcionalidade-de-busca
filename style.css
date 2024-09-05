@@ -96,7 +96,7 @@ section button:hover {
 
 .item-resultado p {
   font-size: 1.1rem; /* Tamanho da fonte */
-  color: #004526; /* Cor do texto */
+  color: #006400; /* Cor do texto */
 }
 
 /* Estiliza os links dentro dos itens de resultado */
@@ -112,7 +112,7 @@ section button:hover {
 
 /* Estiliza a descrição meta dentro dos itens de resultado */
 .descricao-meta {
-  color: #45474b; /* Cor do texto */
+  color: #004526; /* Cor do texto */
   margin: 0.5rem 0; /* Margem acima e abaixo */
 }
 
