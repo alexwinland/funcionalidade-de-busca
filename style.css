@@ -9,7 +9,7 @@
 /* Estilos para a trilha da scrollbar */
 ::-webkit-scrollbar-track {
   background: #90ee90; /* Cor de fundo da trilha */
-  border-radius: 10px; 
+  border-radius: 10px;
 }
 
 /* Estilos para o thumb da scrollbar */
@@ -27,7 +27,9 @@
 body {
   font-family: "MedievalSharp", sans-serif; /* Define a fonte padrão */
   font-weight: bold;
-  background-color: #004526; /* Cor de fundo da página */
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url("imagens/background.jpg") no-repeat center;
+  background-size: cover;
   display: flex; /* Usa Flexbox para layout */
   flex-direction: column; /* Alinha os itens na vertical */
   align-items: center; /* Centraliza os itens horizontalmente */
