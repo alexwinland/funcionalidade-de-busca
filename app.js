@@ -15,7 +15,7 @@ function pesquisar() {
   // se campoPesquisa for uma string sem nada
   if (!campoPesquisa) {
     section.innerHTML =
-      "<p class='nada' >Nada foi encontrado. Você precisa digitar o nome do dinnosauro, alimentação ou habitat.</p>";
+      "<p>Nada foi encontrado. Você precisa digitar o nome do dinnosauro, alimentação ou habitat.</p>";
     return;
   }
 
