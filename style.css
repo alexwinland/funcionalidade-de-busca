@@ -1,5 +1,27 @@
-/* Importa a fonte Chakra Petch do Google Fonts */
+/* Importa a fonte Medieval Sharp do Google Fonts */
 @import url("https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap");
+
+/* Estilos básicos para a scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Estilos para a trilha da scrollbar */
+::-webkit-scrollbar-track {
+  background: #90ee90; /* Cor de fundo da trilha */
+  border-radius: 10px; 
+}
+
+/* Estilos para o thumb da scrollbar */
+::-webkit-scrollbar-thumb {
+  background: #39ff14; /* Cor do thumb */
+  border-radius: 10px;
+}
+
+/* Estilos para o canto da scrollbar */
+::-webkit-scrollbar-corner {
+  background: #004526; /* Cor do canto */
+}
 
 /* Estiliza o corpo da página */
 body {
@@ -47,7 +69,7 @@ section input {
 }
 
 input::placeholder {
-  color: #004526; /* Cor do texto */
+  color: #4b5320; /* Cor do texto */
 }
 
 /* Estiliza os botões dentro das seções */
@@ -86,17 +108,38 @@ section button:hover {
   padding: 1rem; /* Espaçamento interno */
   margin-bottom: 1rem; /* Espaçamento abaixo dos itens */
   box-shadow: 0 2px 4px #39ff14; /* Sombra leve */
+  display: flex;
+  justify-content: space-between;
 }
 
 /* Estiliza os títulos dentro dos itens de resultado */
 .item-resultado h2 {
   font-size: 2rem; /* Tamanho da fonte */
-  color: #39ff14; /* Cor do texto */
+}
+
+.foto-titulo {
+  text-align: center;
+}
+
+.foto-titulo img {
+  max-width: 200px; /* Ajuste o valor conforme necessário */
+  height: auto;
+}
+
+.descricao {
+  padding-top: 100px;
+  text-align: justify;
+  align-items: center;
+  margin-left: 10px;
 }
 
 .item-resultado p {
   font-size: 1.1rem; /* Tamanho da fonte */
-  color: #006400; /* Cor do texto */
+  color: #4b5320; /* Cor do texto */
+}
+
+p {
+  color: #39ff14;
 }
 
 /* Estiliza os links dentro dos itens de resultado */
@@ -112,13 +155,12 @@ section button:hover {
 
 /* Estiliza a descrição meta dentro dos itens de resultado */
 .descricao-meta {
-  color: #004526; /* Cor do texto */
   margin: 0.5rem 0; /* Margem acima e abaixo */
 }
 
 /* Estiliza o rodapé da página */
 footer {
-  background-color: #90ee90; /* Cor de fundo do rodapé */
+  background-color: #4b5320; /* Cor de fundo do rodapé */
   color: #004526; /* Cor do texto */
   text-align: center; /* Alinha o texto ao centro */
   padding: 0; /* Espaçamento interno */
