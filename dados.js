@@ -7,7 +7,7 @@ let dados = [
     habitat: "América do Norte",
     alimentacao: "Carnívoro",
     link: "https://pt.wikipedia.org/wiki/Tiranossauro_rex",
-    tags: "t rex trex tiranossauro carnivoro carne america do norte",
+    tags: "t rex tiranossauro terrestre carnivoro carne america do norte",
   },
   {
     titulo: "Braquiossauro",
@@ -17,7 +17,7 @@ let dados = [
     habitat: "América do Norte",
     alimentacao: "Herbívoro",
     link: "https://pt.wikipedia.org/wiki/Braquiossauro",
-    tags: "braquiossauro herbivoro planta america do norte",
+    tags: "braquiossauro terrestre herbivoro planta america do norte",
   },
   {
     titulo: "Velociraptor",
@@ -27,7 +27,7 @@ let dados = [
     habitat: "Ásia",
     alimentacao: "Carnívoro",
     link: "https://pt.wikipedia.org/wiki/Velociraptor",
-    tags: "velociraptor carnivoro carne asia",
+    tags: "velociraptor terrestre carnivoro carne asia",
   },
   {
     titulo: "Tricerátops",
@@ -37,7 +37,7 @@ let dados = [
     habitat: "América do Norte",
     alimentacao: "Herbívoro",
     link: "https://pt.wikipedia.org/wiki/Tricerátops",
-    tags: "triceratops herbivoro planta america do norte",
+    tags: "triceratops terrestre herbivoro planta america do norte",
   },
   {
     titulo: "Pterodáctilo",
@@ -47,7 +47,7 @@ let dados = [
     habitat: "África e Europa",
     alimentacao: "Carnívoro",
     link: "https://pt.wikipedia.org/wiki/Pterod%C3%A1ctilo",
-    tags: "pterodactilo voador carnivoro africa europa",
+    tags: "pterodactilo voador carnivoro carne africa europa",
   },
   {
     titulo: "Estegossauro",
@@ -57,6 +57,6 @@ let dados = [
     habitat: "América do Norte",
     alimentacao: "Herbívoro",
     link: "https://pt.wikipedia.org/wiki/Estegossauro",
-    tags: "estegossauro herbivoro planta america do norte",
+    tags: "estegossauro terrestre herbivoro planta america do norte",
   },
 ];
