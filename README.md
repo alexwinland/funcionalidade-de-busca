@@ -1,5 +1,7 @@
 ## **README.md: Dinossauros - A Enciclopédia Online dos Grandes Répteis**
 
+<img src="imagens/Projeto.png">
+
 ### ** Sobre o Projeto**
 
 Este projeto web te transporta para a era dos dinossauros!  Construída com HTML, CSS e JavaScript, essa enciclopédia online permite que você explore um vasto banco de dados de dinossauros, filtrando por nome, dieta ou habitat. É como ter um museu de dinossauros na palma da sua mão!
