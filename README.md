@@ -1,4 +1,4 @@
-## **Dinossauros - A Enciclopédia Online dos Grandes Répteis**
+## **Dinossauros: A Enciclopédia Online dos Grandes Répteis**
 
 <img src="imagens/Projeto.png">
 
