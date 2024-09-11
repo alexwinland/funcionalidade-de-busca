@@ -1,12 +1,12 @@
-## **Dinossauros: A Enciclopédia Online dos Grandes Répteis**
+# **Dinossauros: A Enciclopédia Online dos Grandes Répteis**
 
 <img src="imagens/Projeto.png">
 
-### ** Sobre o Projeto**
+## ** Sobre o Projeto**
 
 Este projeto web te transporta para a era dos dinossauros!  Construída com HTML, CSS e JavaScript, essa enciclopédia online permite que você explore um vasto banco de dados de dinossauros, filtrando por nome, dieta ou habitat. É como ter um museu de dinossauros na palma da sua mão!
 
-### ** Como Funciona**
+## ** Como Funciona**
 
 1. **Busca Intuitiva:** Digite o nome de um dinossauro, o que ele comia ou onde vivia no campo de pesquisa.
 2. **Resultados Instantâneos:** Ao pressionar Enter ou clicar no botão "Pesquisar", a mágica acontece! A aplicação vasculha rapidamente o banco de dados e exibe os resultados relevantes.
@@ -17,13 +17,13 @@ Este projeto web te transporta para a era dos dinossauros!  Construída com HTML
     * **Habitat:** Onde ele vivia (floresta, deserto, etc.).
     * **Link Externo:** Um link para mais informações em outras fontes confiáveis.
 
-### **️ Tecnologias Utilizadas**
+## **️ Tecnologias Utilizadas**
 
 * **HTML:** A estrutura básica da página web.
 * **CSS:** Estiliza a página, deixando-a com uma aparência moderna e fácil de navegar.
 * **JavaScript:** A alma do projeto! Responsável pela interatividade, busca e exibição dos resultados.
 
-### ** Estrutura do Projeto**
+## ** Estrutura do Projeto**
 
 * **index.html:** O arquivo principal da página web.
 * **style.css:** Arquivo responsável pelas estilizações da página.
@@ -31,13 +31,13 @@ Este projeto web te transporta para a era dos dinossauros!  Construída com HTML
 * **dados.js:** Arquivo JSON contendo os dados dos dinossauros (você pode adicionar mais dinossauros aqui!).
 * **imagens:** Pasta contendo as imagens dos dinossauros.
 
-### ** Como Usar**
+## ** Como Usar**
 
 1. **Clone o repositório:** Use o Git para clonar este repositório em sua máquina local.
 2. **Abra o arquivo index.html:** Abra o arquivo index.html em seu navegador web favorito.
 3. **Comece a explorar:** Comece a digitar o nome de um dinossauro e divirta-se!
 
-### ** Contribuições**
+## ** Contribuições**
 
 Se você quiser adicionar mais dinossauros, melhorar a interface ou corrigir algum bug, fique à vontade para contribuir! Basta criar um fork deste repositório, fazer suas alterações e enviar um pull request.
 
