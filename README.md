@@ -2,11 +2,11 @@
 
 <img src="imagens/Projeto.png">
 
-## ** Sobre o Projeto**
+## **Sobre o Projeto**
 
 Este projeto web te transporta para a era dos dinossauros!  Construída com HTML, CSS e JavaScript, essa enciclopédia online permite que você explore um vasto banco de dados de dinossauros, filtrando por nome, dieta ou habitat. É como ter um museu de dinossauros na palma da sua mão!
 
-## ** Como Funciona**
+## **Como Funciona**
 
 1. **Busca Intuitiva:** Digite o nome de um dinossauro, o que ele comia ou onde vivia no campo de pesquisa.
 2. **Resultados Instantâneos:** Ao pressionar Enter ou clicar no botão "Pesquisar", a mágica acontece! A aplicação vasculha rapidamente o banco de dados e exibe os resultados relevantes.
