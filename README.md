@@ -17,13 +17,13 @@ Este projeto web te transporta para a era dos dinossauros!  Construída com HTML
     * **Habitat:** Onde ele vivia (floresta, deserto, etc.).
     * **Link Externo:** Um link para mais informações em outras fontes confiáveis.
 
-## **️ Tecnologias Utilizadas**
+## **Tecnologias Utilizadas**
 
 * **HTML:** A estrutura básica da página web.
 * **CSS:** Estiliza a página, deixando-a com uma aparência moderna e fácil de navegar.
 * **JavaScript:** A alma do projeto! Responsável pela interatividade, busca e exibição dos resultados.
 
-## ** Estrutura do Projeto**
+## **Estrutura do Projeto**
 
 * **index.html:** O arquivo principal da página web.
 * **style.css:** Arquivo responsável pelas estilizações da página.
@@ -31,13 +31,13 @@ Este projeto web te transporta para a era dos dinossauros!  Construída com HTML
 * **dados.js:** Arquivo JSON contendo os dados dos dinossauros (você pode adicionar mais dinossauros aqui!).
 * **imagens:** Pasta contendo as imagens dos dinossauros.
 
-## ** Como Usar**
+## **Como Usar**
 
 1. **Clone o repositório:** Use o Git para clonar este repositório em sua máquina local.
 2. **Abra o arquivo index.html:** Abra o arquivo index.html em seu navegador web favorito.
 3. **Comece a explorar:** Comece a digitar o nome de um dinossauro e divirta-se!
 
-## ** Contribuições**
+## **Contribuições**
 
 Se você quiser adicionar mais dinossauros, melhorar a interface ou corrigir algum bug, fique à vontade para contribuir! Basta criar um fork deste repositório, fazer suas alterações e enviar um pull request.
 
