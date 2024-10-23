@@ -1,6 +1,7 @@
 # **Dinossauros: A Enciclopédia Online dos Grandes Répteis**
 
 <img src="imagens/Projeto.png">
+https://funcionalidade-de-busca.vercel.app/
 
 ## **Sobre o Projeto**
 
